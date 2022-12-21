@@ -1,0 +1,21 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.node.json",
+  "include": [
+    "env.d.ts",
+    "docs/**/*",
+    "docs/**/*.vue",
+    "docs/.vitepress/**/*.ts",
+  ],
+  "compilerOptions": {
+    "composite": true,
+    "lib": [
+      "DOM"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./docs/*"
+      ]
+    }
+  },
+}

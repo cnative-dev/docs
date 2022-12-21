@@ -1,0 +1,4 @@
+Sitemap: https://cnative.dev/sitemap.xml
+
+User-agent: *
+Allow: /
