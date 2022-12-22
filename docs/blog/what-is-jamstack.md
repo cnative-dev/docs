@@ -86,4 +86,4 @@ Jamstack 最早是被称为 "JAMstack"，其中 "JAM" 分别是 Javascript, API 
 * [Netlify](https://www.netlify.com/)
 * [Vercel](https://vercel.com/dashboard)
 
-后续我们来看一下如何实践一个 Jamstack 架构的网站。
+后续我们来看一下如何[搭建一个 Jamstack 架构的网站](https://cnative.dev/blog/jamstack-tutorial-with-gatsby)。

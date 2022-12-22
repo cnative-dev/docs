@@ -25,7 +25,7 @@ CNative 是一个网站部署平台，可以在您无需准备服务器、域名
 
 ## 应用场景
 ### 前端网站
-CNative 支持常见的前端框架：无论是 [Vue.js](https://vuejs.org/)、[React](https://reactjs.org/)、[NextJS](https://nextjs.org/) 还是 [NuxtJS](https://nuxtjs.org/)，甚至只要是基于 NodeJS 的环境，在 package.json 里配置了对应的 build 和 start 的命令之后（纯静态页面可使用 [serve](https://www.npmjs.com/package/serve) 组件），我们都可以直接完成部署。我们还支持使用 CDN 来提速访问。
+CNative 支持常见的前端框架：无论是 [Vue.js](https://vuejs.org/)、[React](https://reactjs.org/)、[NextJS](https://nextjs.org/) 还是 [NuxtJS](https://nuxtjs.org/)，甚至只要是基于 NodeJS 的环境，在 package.json 里配置了对应的 build 和 start 的命令之后（纯静态页面可使用 [serve](https://www.npmjs.com/package/serve) 组件），我们都可以直接完成部署。我们还支持使用 CDN 来提速访问。因此，我们可以用 CNative 来实践一个 [Jamstack 架构](https://cnative.dev/blog/what-is-jamstack)
 
 ### API 服务
 在后端服务方面，CNative 支持 Spring、Java、Go 等常见的语言和环境（支持的后端语言还在不断增加中）。可以直接使用这些语言来构建 API 服务供前端页面、App 来使用
