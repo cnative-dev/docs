@@ -160,21 +160,6 @@
             <h3 class="text-xl font-semibold">交给 CNative 处理</h3>
             安心休息、专注工作，一切有条不紊
           </div>
-          <!-- <div class="m-auto min-h-fit w-10/12 daisy-mockup-code">
-            <pre data-prefix="$" class="text-white"><code>git push</code></pre>
-            <pre data-prefix=">" class="truncate"><code>Enumerating objects: 13, done.</code></pre>
-            <pre data-prefix=">" class="truncate"><code>Counting objects: 100% (13/13), done.</code></pre>
-            <pre data-prefix=">" class="truncate"><code>Delta compression using up to 12 threads</code></pre>
-            <pre data-prefix=">" class="truncate"><code>Compressing objects: 100% (7/7), done.</code></pre>
-            <pre data-prefix=">"
-              class="truncate"><code>Writing objects: 100% (7/7), 1.81 KiB | 1.81 MiB/s, done.</code></pre>
-            <pre data-prefix=">"
-              class="truncate"><code>Total 7 (delta 3), reused 0 (delta 0), pack-reused 0</code></pre>
-            <pre data-prefix=">"
-              class="truncate"><code>remote: Resolving deltas: 100% (3/3), completed with 3 local objects.</code></pre>
-            <pre data-prefix=">" class="text-success"><code>Done!</code></pre>
-            <pre />
-          </div> -->
         </div>
       </div>
     </div>
