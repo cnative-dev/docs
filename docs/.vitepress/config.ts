@@ -2,7 +2,7 @@ import { createWriteStream } from 'node:fs'
 import { resolve } from 'node:path'
 import { SitemapStream } from 'sitemap'
 import { defineConfig } from 'vitepress'
-const links = []
+const links: Array<{ url: string, lastmod?: number }> = []
 export default defineConfig({
   lang: 'zh-CN',
   title: 'CNative',
@@ -27,6 +27,8 @@ export default defineConfig({
       text: '使用文档', link: '/docs/introduction', activeMatch: '/docs/'
     }, {
       text: '配置文件', link: '/config/introduction', activeMatch: '/config/'
+    }, {
+      text: 'Blog', link: '/blogs', activeMatch: '/blog'
     },],
     sidebar: {
       '/docs/': [{
@@ -80,13 +82,6 @@ export default defineConfig({
           ]
         },
       ],
-      // '/blog': [
-      //   {
-      //     items: [
-      //       { text: 'Java 运行时版本', link: '/blog/hello-world' },
-      //     ]
-      //   },
-      // ]
     }
   },
   //sitemaps
