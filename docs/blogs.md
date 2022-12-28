@@ -10,6 +10,11 @@ head:
     - name: keywords
       content: 全栈开发, 创业
 ---
+**[从零开始搭建前端 CI/CD 环境](/blog/how-to-deploy-frontend-cicd-service)**
+
+搭建一套服务于前端环境的 CI/CD 系统，优雅的部署测试环境的前端服务
+
+---
 **[为什么创业者应该有独立的博客](/blog/why-startup-should-have-blog)**
 
 在流量时代，我们应该注重长尾流量的建设，关注长期价值，而不是继续把长期价值贡献给现有的流量门户
