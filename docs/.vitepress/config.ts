@@ -55,7 +55,7 @@ export default defineConfig({
           { text: '使用新代码仓库', link: '/docs/repo-from-template' },
           { text: '使用已有代码仓库', link: '/docs/exist-repo' },
           { text: '构建与部署', link: '/docs/build-and-deploy' },
-          { text: '运行时相关', link: '/docs/runtime' },
+          // { text: '运行时相关', link: '/docs/runtime' },
           { text: '配置文件', link: '/docs/config' },
           { text: 'Secret', link: '/docs/secret' },
           { text: '更新 CNative 客户端', link: '/docs/update' },
@@ -66,19 +66,12 @@ export default defineConfig({
           text: 'Java 相关',
           items: [
             { text: 'Java 运行时版本', link: '/config/jre' },
-            { text: 'Maven 配置', link: '/config/maven' }
           ]
         },
         {
           text: 'NodeJS 相关',
           items: [
             { text: '构建工具', link: '/config/nodejs' },
-          ]
-        },
-        {
-          text: 'Golang 相关',
-          items: [
-            { text: '镜像加速', link: '/config/golang-mirror' },
           ]
         },
       ],
