@@ -10,6 +10,11 @@ head:
     - name: keywords
       content: 全栈开发, 创业
 ---
+**[创业家是不追求7%确定回报，只冒险追求100%回报的人](/blog/lululemon-founder)**
+
+今天的分享来自于前美国在线（AOL）副总裁Kara Goldin（目前Kara Goldin是硅谷的0糖风味水品牌Hint的创始人）与Chip Wilson的一次对话。Wilson分享了创立lululemon背后的故事和他独特的企业哲学
+
+---
 **[从零开始搭建前端 CI/CD 环境](/blog/how-to-deploy-frontend-cicd-service)**
 
 搭建一套服务于前端环境的 CI/CD 系统，优雅的部署测试环境的前端服务
